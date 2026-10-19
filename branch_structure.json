@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-391-feat-ui-generate-sitemap-xml-and-robots-txt",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-391-feat-ui-generate-sitemap-xml-and-robots-txt": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-391-feat-ui-generate-sitemap-xml-and-robots-txt",
+    "origin"
+  ]
+}
